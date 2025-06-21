@@ -1,0 +1,23 @@
+{
+  "name": "nitya-app-deploy",
+  "version": "1.0.0",
+  "main": "flutter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seagt99/nitya-app-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seagt99/nitya-app-deploy/issues"
+  },
+  "homepage": "https://github.com/seagt99/nitya-app-deploy#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
