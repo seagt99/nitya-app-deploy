@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "nitya-app-deploy",
   "version": "1.0.0",
   "main": "flutter.js",
@@ -21,3 +22,4 @@
     "node-fetch": "^3.3.2"
   }
 }
+
