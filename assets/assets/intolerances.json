@@ -1,0 +1,120 @@
+{
+  "avoid": {
+    "GRAIN": [
+      { "item": "WHEAT BRAN", "risk": "ELEVATED" },
+      { "item": "GLIADIN", "risk": "ELEVATED" },
+      { "item": "RYE", "risk": "ELEVATED" },
+      { "item": "BARLEY", "risk": "ELEVATED" },
+      { "item": "COUSCOUS", "risk": "ELEVATED" },
+      { "item": "DURUM WHEAT", "risk": "ELEVATED" },
+      { "item": "MALT", "risk": "ELEVATED" },
+      { "item": "SPELT", "risk": "ELEVATED" },
+      { "item": "WHEAT", "risk": "ELEVATED" },
+      { "item": "WHEAT FLOUR", "risk": "ELEVATED" },
+      { "item": "WHEAT PASTA/NOODLES", "risk": "ELEVATED" }
+    ],
+    "NUTS/SEEDS": [
+      { "item": "CASHEW NUT", "risk": "ELEVATED" },
+      { "item": "HAZELNUT", "risk": "ELEVATED" },
+      { "item": "PEANUT", "risk": "ELEVATED" },
+      { "item": "PISTACHIO", "risk": "ELEVATED" },
+      { "item": "SUNFLOWER SEED", "risk": "ELEVATED" },
+      { "item": "ALMOND", "risk": "ELEVATED" }
+    ],
+    "FRUIT": [
+      { "item": "ORANGE", "risk": "ELEVATED" },
+      { "item": "PLUM", "risk": "ELEVATED" }
+    ],
+    "GRAIN (gluten free)": [
+      { "item": "CORN (maize)", "risk": "ELEVATED" },
+      { "item": "CORN FLOUR", "risk": "ELEVATED" },
+      { "item": "TORTILLAS", "risk": "ELEVATED" },
+      { "item": "CORNSTARCH", "risk": "ELEVATED" },
+      { "item": "POPCORN", "risk": "ELEVATED" },
+      { "item": "RICE", "risk": "ELEVATED" },
+      { "item": "RICE FLOUR", "risk": "ELEVATED" }
+    ],
+    "DAIRY": [
+      { "item": "CASEIN (milk)", "risk": "ELEVATED" },
+      { "item": "CASEIN (yogurt)", "risk": "ELEVATED" },
+      { "item": "CASEIN (cheese)", "risk": "ELEVATED" },
+      { "item": "CASEIN (butter)", "risk": "ELEVATED" },
+      { "item": "CASEIN (ice cream)", "risk": "ELEVATED" },
+      { "item": "CASEIN (protein powder)", "risk": "ELEVATED" },
+      { "item": "EGG WHITE", "risk": "ELEVATED" },
+      { "item": "MILK (cow)", "risk": "ELEVATED" },
+      { "item": "MILK (goat)", "risk": "ELEVATED" },
+      { "item": "MILK (sheep)", "risk": "ELEVATED" }
+    ],
+    "FISH/SEAFOOD": [
+      { "item": "CLAM", "risk": "ELEVATED" }
+    ],
+    "VEGETABLES": [
+      { "item": "PEA", "risk": "ELEVATED" }
+    ]
+  },
+  "consume": {
+    "GRAIN (gluten free)": [
+      { "item": "POLENTA", "risk": "NORMAL" },
+      { "item": "TAPIOCA", "risk": "NORMAL" }
+    ],
+    "FRUIT": [
+      { "item": "APPLE", "risk": "NORMAL" },
+      { "item": "BANANA", "risk": "NORMAL" },
+      { "item": "BLUEBERRY", "risk": "NORMAL" },
+      { "item": "GRAPES", "risk": "NORMAL" },
+      { "item": "KIWI", "risk": "NORMAL" },
+      { "item": "MANGO", "risk": "NORMAL" },
+      { "item": "MELON", "risk": "NORMAL" },
+      { "item": "PEAR", "risk": "NORMAL" },
+      { "item": "PINEAPPLE", "risk": "NORMAL" },
+      { "item": "POMEGRANATE", "risk": "NORMAL" },
+      { "item": "STRAWBERRY", "risk": "NORMAL" },
+      { "item": "WATERMELON", "risk": "NORMAL" }
+    ],
+    "VEGETABLES": [
+      { "item": "BELL PEPPER", "risk": "NORMAL" },
+      { "item": "BROCCOLI", "risk": "NORMAL" },
+      { "item": "CARROT", "risk": "NORMAL" },
+      { "item": "CAULIFLOWER", "risk": "NORMAL" },
+      { "item": "CELERY", "risk": "NORMAL" },
+      { "item": "CUCUMBER", "risk": "NORMAL" },
+      { "item": "EGGPLANT", "risk": "NORMAL" },
+      { "item": "GREEN BEANS", "risk": "NORMAL" },
+      { "item": "LETTUCE", "risk": "NORMAL" },
+      { "item": "OKRA", "risk": "NORMAL" },
+      { "item": "ONION", "risk": "NORMAL" },
+      { "item": "SPINACH", "risk": "NORMAL" },
+      { "item": "TOMATO", "risk": "NORMAL" },
+      { "item": "ZUCCHINI", "risk": "NORMAL" }
+    ],
+    "NUTS/SEEDS": [
+      { "item": "CHIA SEEDS", "risk": "NORMAL" },
+      { "item": "FLAX SEEDS", "risk": "NORMAL" },
+      { "item": "HEMP SEEDS", "risk": "NORMAL" },
+      { "item": "PUMPKIN SEEDS", "risk": "NORMAL" },
+      { "item": "SESAME SEEDS", "risk": "NORMAL" },
+      { "item": "WALNUT", "risk": "NORMAL" }
+    ],
+    "DAIRY ALTERNATIVES": [
+      { "item": "ALMOND MILK", "risk": "NORMAL" },
+      { "item": "COCONUT MILK", "risk": "NORMAL" },
+      { "item": "OAT MILK", "risk": "NORMAL" },
+      { "item": "RICE MILK", "risk": "NORMAL" },
+      { "item": "SOY MILK", "risk": "NORMAL" }
+    ],
+    "MEAT/PROTEIN": [
+      { "item": "CHICKEN", "risk": "NORMAL" },
+      { "item": "EGG YOLK", "risk": "NORMAL" },
+      { "item": "LAMB", "risk": "NORMAL" },
+      { "item": "MUTTON", "risk": "NORMAL" },
+      { "item": "TURKEY", "risk": "NORMAL" }
+    ],
+    "FISH/SEAFOOD": [
+      { "item": "SALMON", "risk": "NORMAL" },
+      { "item": "SARDINE", "risk": "NORMAL" },
+      { "item": "SHRIMP", "risk": "NORMAL" },
+      { "item": "TUNA", "risk": "NORMAL" }
+    ]
+  }
+}
